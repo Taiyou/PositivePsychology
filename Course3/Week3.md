@@ -14,3 +14,9 @@
 - quantitative analysis: numerical analysis
 - qualitative analysis: 
 2. inferential analysis
+
+## What are descriptives?
+- measures of central tendency
+- measures of variability
+
+
